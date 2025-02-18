@@ -1,23 +1,21 @@
-Project-Parkinson: Parkinson's Disease Predictor
-Overview
+## Parkinson's Disease Predictor
 
-Welcome to Parkinson's Disease Predictor, an innovative AI-driven tool designed to assist healthcare professionals in predicting the results of the Unified Parkinson's Disease Rating Scale (UPDRS) test. Using advanced deep learning models, this tool enhances diagnostic precision, enabling timely and accurate assessments of Parkinson’s disease progression. Welcome to a new era in healthcare!
-Key Features
+# Overview
 
-    AI-Powered Predictions: Leverages cutting-edge deep learning algorithms to predict UPDRS test results.
-    Optimized Machine Learning Models: Multiple machine learning models were evaluated to identify the most accurate one for predicting Parkinson's progression.
-    Improved Diagnostics: Supports medical professionals in making informed decisions that contribute to better patient care and management.
+The Parkinson's Disease Predictor is an AI-driven tool designed to help medical professionals predict the results of the Unified Parkinson's Disease Rating Scale (UPDRS) test. By using deep learning techniques, it enables more precise and timely diagnoses, contributing to better management of Parkinson's disease.
 
-Models Used
+# Features
 
-We experimented with various machine learning models to determine the most effective one for predicting Parkinson's disease progression. After assessing their performance, the best-performing model was selected to provide the most accurate and reliable predictions.
-How It Works
-1. Data Input
+    AI Predictions: The tool uses advanced deep learning algorithms to predict UPDRS scores.
+    Multiple Models Tested: Various machine learning models were tested to determine the most accurate one.
+    Enhanced Diagnostics: It aids healthcare providers in making informed decisions for better patient care.
 
-The model takes in data relevant to Parkinson's disease symptoms, patient history, and other key factors.
-2. Prediction Process
+# Models Used
 
-The deep learning model processes the data and generates predictions for UPDRS scores, which reflect the severity of Parkinson's symptoms.
-3. Results
+We explored different machine learning models to identify the best one for predicting the progression of Parkinson's disease. After evaluating their performance, we selected the model that provided the most reliable predictions.
 
-Healthcare providers can use these predictions to guide clinical decisions, improving the comprehensive understanding of each patient's condition.
+# How It Works
+
+    Data Input: The model accepts patient data related to Parkinson's disease symptoms, history, and other relevant factors.
+    Prediction: The deep learning model processes the data to predict UPDRS test results.
+    Results: The model generates predictions that can help medical professionals with clinical decision-making.
